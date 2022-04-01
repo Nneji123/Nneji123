@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and AI using python
 - 💞️ I’m looking to collaborate on any dev project
 - 📫 How to reach me: ifeanyinneji777@gmail.com
+- My portfolio website: https://ifeanyi-nneji.netlify.app
 
 <!---
 Nneji123/Nneji123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
