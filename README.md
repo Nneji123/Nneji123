@@ -39,8 +39,8 @@
 ##
 
 <p align="center">
-  <img height="80%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nneji123&layout=compact&theme=graywhite" />
-  <img height="80%" width="40%" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&theme=graywhite" />
+  <img height="90%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nneji123&layout=compact&theme=graywhite" />
+  <img height="90%" width="40%" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&theme=graywhite" />
 </p>
 
 
