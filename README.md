@@ -221,6 +221,22 @@
 
 </a> 
 
+<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=tokyonight" />
+
+</a>
+
+<a href="https://github.com/Nneji123/Stock-Price-Predictor-Web-App-with-Flask">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Stock-Price-Predictor-Web-App-with-Flask&theme=tokyonight" />
+
+</a>
+
 
 
 
