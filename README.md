@@ -273,6 +273,15 @@
 
 </details>
 
+<details>
+  <summary><b>⚡ GitHub Contribution Streak</b></summary>
+  <br/>
+   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+  <br/>
+
+</details>
+
+
 <br/>
 
 ## 🏆GitHub Trophies
