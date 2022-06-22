@@ -215,11 +215,11 @@
 
 </a> 
 
-<a href="https://github.com/Nneji123/Super-Resolution-Model">
+<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Super-Resolution-Model&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
 
 </a> 
 
@@ -262,6 +262,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
 
 </a>
+
 
 
 
