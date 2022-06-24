@@ -28,7 +28,7 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization, making accurate predictions and making data driven decisions various fields of interest.
+<p >I work with data to make data driven decisions using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
 </p>
 
 
