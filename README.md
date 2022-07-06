@@ -28,7 +28,7 @@
   </p>
 
 
-<p >I work with data to make data driven decisions using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
+<p >I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
 </p>
 
 
@@ -102,6 +102,9 @@
   <a href="https://docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white">
   </a>
+  <a href="https://linux.com/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
   
 </p>
 
@@ -172,13 +175,23 @@
   <a href="https://streamlit.io/" target="_blank">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   </a>
-  
   <a href="" target="_blank">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
    <a href="" target="_blank">
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  </a> 
+  <a href="" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a>
+  <a href="" target="_blank">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+
+
+
+
   
 </p>
  
