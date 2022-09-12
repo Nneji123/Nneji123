@@ -276,6 +276,30 @@
 
 </a>
 
+## Check out my recent Articles :smile:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0" alt="Recent Article 0">
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1" alt="Recent Article 1">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3">
+ 
+ <!---
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4" alt="Recent Article 4">
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5" alt="Recent Article 5">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6" alt="Recent Article 6">
+   
+   
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7" alt="Recent Article 7">
+-->
+
+
 
 
 
@@ -323,7 +347,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
       alt="example"> 
 </p>
-   
+
 
 ----
 
