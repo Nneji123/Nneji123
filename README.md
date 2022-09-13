@@ -277,15 +277,18 @@
 </a>
 
 ## Check out my recent Articles :smile:
+
+<p
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0" alt="Recent Article 0">
    
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1" alt="Recent Article 1">
    
    
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2"></a>
    
    
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3"></a>
  
  <!---
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4" alt="Recent Article 4">
@@ -298,11 +301,8 @@
    
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7" alt="Recent Article 7">
 -->
-
-
-
-
-
+</p>
+	 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
 
