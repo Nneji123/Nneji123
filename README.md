@@ -1,12 +1,9 @@
 ## Hi, I’m Ifeanyi Nneji <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Engineer;I+also+have+degree+in+Computer+Engineering" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;" /></a>
 </p>
 
 <p align ="center">
-  <a  href="https://ifeanyinneji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
   <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
@@ -15,17 +12,13 @@
   </a>   
  
   </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-
   <a href="https://medium.com/@ifeanyinneji777" target="_blank">
       <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
     </a>
   </p>
 
 
-<p >A passionate machine learning engineer, on a mission to unlock the boundless possibilities of AI and data. With expertise in data science, deep learning, and predictive modeling, I transform intricate data into actionable insights. Join me on this innovation-driven journey into the world of AI, where technology meets creativity. Let's explore the exciting realm of artificial intelligence together.
+<p >I design and build high-performance backend systems and AI solutions used by thousands of users. Passionate about data-driven problem-solving, system optimization, and creating seamless user experiences. Always exploring innovative ways to bridge technology and business needs. Let’s connect! 🚀
 </p>
 
 
@@ -38,10 +31,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
-  <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-
   <a href="https://golang.org" target="_blank">
     <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   </a>
@@ -49,19 +38,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
-  
-  <a href="https://isocpp.org" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
 </p>
 
 
 ### Database Tools
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-  
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
@@ -76,38 +61,6 @@
 
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
-
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </a>
-</p>
-
-  
-### Visualization Tools
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  </a>
-  
-  <a href="https://www.tableau.com/" target="_blank">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  </a>
-  
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white">
-  </a>
-  
-  <a href="https://d3js.org/" target="_blank">
-    <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3-dot-js&logoColor=white">
-  </a>
-
-  <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-
-  <a href="https://www.highcharts.com/" target="_blank">
-    <img alt="Highcharts" src="https://img.shields.io/badge/Highcharts-ED6847?style=for-the-badge&logo=highcharts&logoColor=white">
   </a>
 </p>
 
@@ -145,45 +98,7 @@
   <a href="https://linux.com/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
-
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  </a>
-
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
-  </a>
 </p>
-
-
-
-### Data Manipulation Tools
-<p align="left">
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-  <a href="https://scipy.org/" target="_blank">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
-  </a>
-
-  <a href="https://matplotlib.org/" target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-  <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  </a>
-
-  <a href="https://spark.apache.org/" target="_blank">
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white">
-  </a>
-</p>
-
   
 
 ### Machine Learning Tools
@@ -228,14 +143,12 @@
    </a>
 </p>
 
-
 ### Backend Tools
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   </a>
 
-  
   <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   </a>
@@ -244,69 +157,20 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </a>
   
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <a href="https://hono.dev/" target="_blank">
+    <img alt="Hono" src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=cloudflare&logoColor=orange">
   </a>
-</p>
 
- 
-### Cloud Platforms
-<p align="left">
-  <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
-  
-  <a href="https://www.heroku.com/" target="_blank">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-  
-  <a href="https://www.netlify.com/" target="_blank">
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  </a>
-  
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  </a>
-  
-  <a href="https://www.vercel.com/" target="_blank">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  
-  <a href="https://render.com/" target="_blank">
-    <img alt="Render" src="https://img.shields.io/badge/Render-0D96F6?style=for-the-badge&logo=render&logoColor=white">
-  </a>
-  
-  <a href="https://railway.app/" target="_blank">
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white">
-  </a>
-  
-  <a href="https://fly.io/" target="_blank">
-    <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-5F6F7A?style=for-the-badge&logo=flyio&logoColor=white">
-  </a>
-</p>
 
- 
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
 
-### Automation Tools
-<p align="left">
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-  
-  <a href="https://jenkins.io/" target="_blank">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/features/actions" target="_blank">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  </a>
-  
-  <a href="https://www.terraform.io/" target="_blank">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <a href="https://echo.labstack.com/" target="_blank">
+    <img alt="Echo" src="https://img.shields.io/badge/Echo-009688?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </p>
 
@@ -347,73 +211,6 @@
 |                    | [WebsiteBlocker](https://github.com/Nneji123/Website-Blocker)                    | A Python Script that blocks websites during a certain time interval.              |
 | :video_game: Game Projects | [Alien Shooter](https://github.com/Nneji123/Alien-Shooter)                     | A Game where a user shoots aliens and gets points. Built using Pygame library.           |
 |                    | [Space Rocks](https://github.com/Nneji123/Space-Rocks)                     | A simple game made using pygame libraries.           |
-
-
-
-## Check out my recent Articles :smile:
-
-<p
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/0" alt="Recent Article 0">
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/1" alt="Recent Article 1">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/2" alt="Recent Article 2"></a>
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/3" alt="Recent Article 3"></a>
- 
- <!---
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/4" alt="Recent Article 4">
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/5" alt="Recent Article 5">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/6" alt="Recent Article 6">
-   
-   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ifeanyinneji777/7" alt="Recent Article 7">
--->
-</p>
-	 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
-  <br/>
-
-</details>
-
-<details>
-  <summary><b>⚡ GitHub Contribution Streak</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
-  <br/>
-
-</details>
-
-
-<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- 
 ## What I'm Currently Listening To
