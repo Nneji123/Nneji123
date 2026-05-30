@@ -6,4 +6,4 @@ I work primarily with Python, Go, and TypeScript, and I care about clean archite
 
 **[ifeanyinneji.dev](https://www.ifeanyinneji.dev)**
 
-[LinkedIn](https://www.linkedin.com/in/ifeanyi-nneji-719989235) · [Email](mailto:ifeanyinneji777@gmail.com) · [Medium](https://medium.com/@ifeanyinneji777)
+[LinkedIn](https://www.linkedin.com/in/ifeanyi-nneji) · [Email](mailto:ifeanyinneji777@gmail.com) · [Medium](https://medium.com/@ifeanyinneji777)
